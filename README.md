@@ -11,3 +11,6 @@ I'm using three types of datasets of airbnb for this project. One is for the dat
 ## How to run
 1. The jupyter notebook is an enviornment of testing and analysing in helping me answer my solutions
 2. To run you must use the jupyter notebook and select run
+
+## BLOG
+https://medium.com/@dmoreno757/how-does-an-airbnb-listing-affect-us-in-choosing-which-one-is-the-right-one-34688f0fc31c
