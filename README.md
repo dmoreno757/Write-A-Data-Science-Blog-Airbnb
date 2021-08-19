@@ -5,7 +5,7 @@ For this project I'm looking into the airbnb data for seattle listing. With Seat
 2. Does proberty type affect the price for a listing?
 3. Does reviews cause which neighboorhood will be rented out more?
 
-##Libaries
+## Libaries
 - pandas
 - matplotlib
 - warnings
